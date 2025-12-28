@@ -191,6 +191,14 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+git.add
+gitcommit-m "Your Message"
+gitpush
+git add.
+gitcommit-m"Your Message"
+git publish
+
+
 
 # Click-Once directory
 publish/
